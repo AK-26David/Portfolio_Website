@@ -1,46 +1,44 @@
-# Arnav Karnik - Portfolio
+# Portfolio Website
 
-Welcome to my portfolio website! This is a space where you can learn more about my skills, experience, and passion for technology.
+Welcome to my online portfolio! This website showcases some of the projects and skills I've worked on in web development. It is designed to give visitors an overview of my work, technical abilities, and interests in the field of web development.
+
+## Features
+
+- **Clean and Responsive Design:** The portfolio adapts to any screen size, providing a seamless experience on both desktop and mobile devices.
+- **Project Showcase:** Highlighting a variety of web development projects with detailed descriptions and links.
+- **About Me Section:** Information about my background, skills, and the technologies I work with.
+- **Contact Form:** Easy way for potential collaborators or clients to reach out.
+
+## Technologies Used
+
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **GitHub Pages** (for hosting the portfolio)
+
+## How to View the Portfolio
+
+1. Click the following link to visit my online portfolio:  
+   [My Portfolio Website](https://ak-26david.github.io/Portfolio_Website/)
+   
+2. Explore the various sections including Projects, About Me, and Contact to learn more about my work and experience.
+
+## Getting Involved
+
+If you're interested in collaborating on projects or just want to chat about web development, feel free to reach out! You can contact me through the **Contact** section of the portfolio or by emailing me directly.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+
+- Inspiration from various online portfolios and web design tutorials.
+- Special thanks to all the contributors to open-source projects used in building this website.
 
 ---
 
-## Table of Contents
-1. [Home](#home)
-2. [About](#about)
-3. [Contact](#contact)
-
----
-
-## Home
-
-### All About Technology
-Knowledge, Experience, and Understanding.
-
-Welcome to my personal portfolio website. I am passionate about **Artificial Intelligence**, **Machine Learning**, **Deep Learning**, and **Computer Vision**. In this space, you'll find more about my academic journey, personal projects, and my vision for the future of technology.
-
----
-
-## About
-
-### About Me
-I am currently a junior at **Manipal Institute of Technology**, majoring in **Computer Science** with a specialization in **Artificial Intelligence and Machine Learning**. My academic journey has ignited a strong passion for Machine Learning, Deep Learning, and Computer Vision, driving me to explore their vast and evolving applications.
-
-I am particularly fascinated by the capabilities of **Computer Vision** in enabling machines to interpret and analyze visual data, unlocking new possibilities in areas such as **healthcare**, **autonomous systems**, **augmented reality**, and **security**. I am deeply interested in understanding how these technologies can be leveraged to solve real-world challenges and shape the future of society.
-
-From **image classification** and **object detection** to advanced **feature extraction** and **image synthesis**, I am eager to delve into the complexities of Computer Vision (CV) and push the boundaries of what is possible. I am committed to continuously expanding my knowledge and skills, driven by the excitement of discovering innovative ways to apply **Machine Learning (ML)**, **Deep Learning (DL)**, and **Computer Vision (CV)** in transformative and impactful ways.
-
----
-
-## Contact
-
-### Contact Me
-
-Feel free to reach out if you'd like to collaborate, ask questions, or just chat about tech!
-
-- 📧 **Email**: [your-email@example.com](mailto:your-email@example.com)
-- 🌐 **Website**: [your-website.com](http://your-website.com)
-- 🐦 **Twitter**: [@your-twitter](https://twitter.com/your-twitter)
-- 📱 **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/your-linkedin)
+Thank you for visiting my portfolio, and I look forward to connecting with you!
 
 ---
 
